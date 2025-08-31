@@ -1,2 +1,16 @@
-# RP-1-Full-Thrust
-RP-1 Full Thrust adds way more additions to RP-1. Making RP-1 more playable, it has more variety, and can be replayed even more!
+Mods That RP-1FT Has Configs For:
+- Luciole
+- Xingyun-2 Satellite
+- Mirror Shields
+- Near Future Mods
+- Ablative Airbrakes
+- Gravity Issue
+- Kerbal Reusability Expansion
+- Planetside Exploration
+- Far Future
+- Silly Photon Drives
+
+**Note that not all parts from these mods are configured, some mods are fully configured and some only a few parts are.**
+
+Stock Parts That RP-1FT Has Configs For:
+- KAL-1000 Controller

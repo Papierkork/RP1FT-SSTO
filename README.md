@@ -3,7 +3,7 @@ Mods That RP-1FT Has Configs For:
 - Xingyun-2 Satellite
 - Mirror Shields
 - Near Future Mods
-- Ablative Airbrakes
+- Ablative Airbrakes (BUGGED, WIP)
 - Gravity Issue
 - Kerbal Reusability Expansion
 - Planetside Exploration
